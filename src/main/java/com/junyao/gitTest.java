@@ -15,5 +15,6 @@ public class gitTest {
         System.out.println("hello git6");
         System.out.println("hello git6");
         System.out.println("hello spark");
+        System.out.println("push gitee");
     }
 }
